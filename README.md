@@ -44,6 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/paurosmoleon/paurosmoleon/output/snake.svg" alt="Snake animation" />
+<img src="./.github/workflow/snake.yml" alt="Snake animation" />
 
 ###
