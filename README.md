@@ -14,11 +14,11 @@
 
 ###
 
-<h3 align="left">Side Projects & Ideas</h3>
+<h3 align="left">What I'm Exploring</h3>
 
 ###
 
-<p align="left">🛠️ Creating a full-stack SaaS app  <br>📦 Dockerizing everything just because I can  <br>💡 Experimenting with AI and automation tools</p>
+<p align="left">🔹 Building scalable full-stack applications<br>🔹 Experimenting with cloud & DevOps workflows  <br>🔹 Automating my workflow to code more, stress less**</p>
 
 ###
 
@@ -41,4 +41,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
